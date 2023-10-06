@@ -31,3 +31,25 @@ SEXO CHAR (1),<br>
 [PRIMEIRA COMPRA] BIT
 )
 
+## Alterando uma tabela
+
+ALTER TABLE [TABELA DE CLIENTES] ALTER COLUMN [CPF] CHAR (11) NOT NULL;
+
+## Colocando uma chave primária num campo
+
+ALTER TABLE [TABELA DE CLIENTES] ADD CONSTRAINT PK_TABELA_CLIENTE 
+PRIMARY KEY CLUSTERED (CPF);
+
+## Inserindo dados na tabela
+
+INSERT INTO [TABELA DE PRODUTOS] VALUES (
+'104017',
+'Light - 350 ml - Melância',
+'Lata',
+'350 ml',
+'Melancia',
+4.56
+);
+
+
+
