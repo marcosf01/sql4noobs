@@ -2,7 +2,7 @@
 
 <img src="./images/Frame 5.svg" alt="SQL Server Logo">
 
-<p align="center">Aprenda os comandos em SQL e reaproveite os códigos para copiar, colar e editar!</p>
+<p align="center">Aprenda os comandos em SQL e reaproveite os códigos para copiar, colar e editar!</p> <br><br>
 
 ## Tipos de dados
 
