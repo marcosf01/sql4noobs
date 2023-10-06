@@ -1,5 +1,9 @@
 # SQL4Noobs
 
+<h1 align="center">
+  <img src="./images/microsoft-sql-server 1.png" alt="SQL Server Logo" width="120">
+</h1>
+
 [Tipos de dados](docs/tipos.md)
 
 <p align="center">Tenha todos os comando em SQL em um só lugar! Copie, cole e edite.</p>
