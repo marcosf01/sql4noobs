@@ -1,8 +1,7 @@
 <h1 align="center"> SQL4Noobs</h1>
 
-<h1 align="center">
-  <img src="./images/Frame 5.svg" alt="SQL Server Logo">
-</h1>
+<img src="./images/Frame 5.svg" alt="SQL Server Logo">
+
 
 [Tipos de dados](docs/tipos.md)
 
