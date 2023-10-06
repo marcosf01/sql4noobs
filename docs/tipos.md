@@ -1,4 +1,4 @@
-# Tipod de dados
+# Tipos de dados
 
 | Tipo | Descrição |
 | --- | --- |
@@ -8,5 +8,4 @@
 | SMALLINT | Numérico do tipo Int. Usado para economizar espaço no banco |
 | FLOAT | Numérico para casa decimal |
 | MONEY | Para valores monetários |
-| SMALLMONEY | Para valores monetários | Usado para economizar espaço no banco
 | BIT | Para valores binários(0/1) |
