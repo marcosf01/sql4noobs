@@ -1,4 +1,4 @@
-# Tipod de dados
+# Tipos de dados
 
 | Tipo | Descrição |
 | --- | --- |
