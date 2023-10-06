@@ -4,9 +4,7 @@
 
 <p align="center">Aprenda os comandos em SQL e reaproveite os códigos para copiar, colar e editar!</p>
 
-[Tipos de dados](docs/tipos.md)
-
-# Tipos de dados
+## Tipos de dados
 
 | Tipo | Descrição |
 | --- | --- |
@@ -19,11 +17,11 @@
 | SMALLMONEY | Para valores monetários. Usado para economizar espaço no banco |
 | BIT | Para valores binários(0/1) |
 
-### Criar Banco de Dados
+### Criar e excluir Banco de Dados
 CREATE DATABASE <em>Nome_do_banco</em>
-
-### Excluir Banco de Dados
 DROP DATABASE <em>Nome_do_banco</em>
+
+
 
 ### Criando uma tabela
 CREATE TABLE [TABELA DE CLIENTES] ( <br>
