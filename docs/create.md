@@ -1,20 +1,28 @@
+# Create
+
 ### Criar e excluir Banco de Dados
-CREATE DATABASE <em>Nome_do_banco</em><br>
-DROP DATABASE <em>Nome_do_banco</em>
+
+```swift
+CREATE DATABASE Nome_do_banco
+DROP DATABASE Nome_do_banco
+```
 
 ### Criando uma tabela
-CREATE TABLE [TABELA DE CLIENTES] ( <br>
-CPF CHAR (11),<br>
-NOME VARCHAR (150),<br>
-RUA VARCHAR (150),<br>
-COMPLEMENTO VARCHAR (150),<br>
-BAIRRO VARCHAR (150),<br>
-ESTADO CHAR (2),<br>
-CEP CHAR (8),<br>
-[DATA DE NASCIMENTO] DATE,<br>
-IDADE SMALLINT,<br>
-SEXO CHAR (1),<br>
-[LIMITE DE CREDITO] MONEY,<br>
-[VOLUME MINIMO] FLOAT,<br>
-[PRIMEIRA COMPRA] BIT
+
+```swift
+CREATE TABLE [TABELA DE CLIENTES] ( 
+    CPF CHAR (11),
+    NOME VARCHAR (150),
+    RUA VARCHAR (150),
+    COMPLEMENTO VARCHAR (150),
+    BAIRRO VARCHAR (150),
+    ESTADO CHAR (2),
+    CEP CHAR (8),
+    [DATA DE NASCIMENTO] DATE,
+    IDADE SMALLINT,
+    SEXO CHAR (1),
+    [LIMITE DE CREDITO] MONEY,
+    [VOLUME MINIMO] FLOAT,
+    [PRIMEIRA COMPRA] BIT
 )
+```
