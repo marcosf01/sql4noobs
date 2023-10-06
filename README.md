@@ -2,10 +2,22 @@
 
 <img src="./images/Frame 5.svg" alt="SQL Server Logo">
 
+<p align="center">Aprenda os comandos em SQL e reaproveite os códigos para copiar, colar e editar!</p>
 
 [Tipos de dados](docs/tipos.md)
 
-<p align="center">Aprenda os comandos em SQL e reaproveite os códigos para copiar, colar e editar!</p>
+# Tipos de dados
+
+| Tipo | Descrição |
+| --- | --- |
+| CHAR | Quantidade determinada de caracteres |
+| VARCHAR | Quantidade indeterminada de caracteres |
+| DATE | Padrao americano para data |
+| SMALLINT | Numérico do tipo Int. Usado para economizar espaço no banco |
+| FLOAT | Numérico para casa decimal |
+| MONEY | Para valores monetários |
+| SMALLMONEY | Para valores monetários. Usado para economizar espaço no banco |
+| BIT | Para valores binários(0/1) |
 
 ### Criar Banco de Dados
 CREATE DATABASE <em>Nome_do_banco</em>
