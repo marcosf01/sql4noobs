@@ -1,12 +1,12 @@
 # SQL4Noobs
 
 <h1 align="center">
-  <img src="./images/microsoft-sql-server 1.png" alt="SQL Server Logo" width="150">
+  <img src="./images/Frame 5.svg" alt="SQL Server Logo">
 </h1>
 
 [Tipos de dados](docs/tipos.md)
 
-<p align="center">Tenha todos os comando em SQL em um só lugar! Copie, cole e edite.</p>
+<p align="center">Aprenda os comandos em SQL e reaproveite os códigos para copiar, colar e editar!</p>
 
 ### Criar Banco de Dados
 CREATE DATABASE <em>Nome_do_banco</em>
@@ -58,5 +58,27 @@ VALUES <br>
 ( "O Silêncio dos Inocentes" , "Suspense" , '1991-05-17' , 118  , 2), <br>
 ( "Coringa"                  , "Drama"    , '2019-10-03' , 122  , 3); 
 
+## Selecionando todos os registros
 
+SELECT * FROM [TABELA DE PRODUTOS];
+
+## Selecionando campos
+
+SELECT [NOME], [ESTADO] FROM [TABELA DE PRODUTOS];
+
+## Ordenando os registros
+
+SELECT * FROM [TABELA DE PRODUTOS] ORDER BY NOME
+
+## Como apelidar uma coluna(alias)
+SELECT [NOME] AS [NOME DO CLIENTE], [ESTADO] AS [UF] FROM [TABELA DE CLIENTES]
+
+## Como filtrar sem repetições
+SELECT DISTINCT [NOME] AS [NOME DO CLIENTE] FROM [TABELA DE CLIENTES]
+
+## Para selecionar registros específicos
+
+SELECT [NOME] AS [NOME DO CLIENTE], [ESTADO] AS [UF], [PRIMEIRA COMPRA] <br>
+FROM [TABELA DE CLIENTES] <br>
+WHERE [PRIMEIRA COMPRA] = 1
 
