@@ -4,7 +4,9 @@
 
 <p align="center">Aprenda os comandos em SQL e reaproveite os códigos para copiar, colar e editar!</p> <br><br>
 
-## Tipos de dados
+## Tipos de dados 
+
+<br>
 
 | Tipo | Descrição |
 | --- | --- |
@@ -16,6 +18,8 @@
 | MONEY | Para valores monetários |
 | SMALLMONEY | Para valores monetários. Usado para economizar espaço no banco |
 | BIT | Para valores binários(0/1) |
+
+<br>
 
 ## Comandos
 
