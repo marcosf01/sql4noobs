@@ -17,12 +17,12 @@
 | SMALLMONEY | Para valores monetários. Usado para economizar espaço no banco |
 | BIT | Para valores binários(0/1) |
 
+## Comandos
+
 ### Criar e excluir Banco de Dados
-CREATE DATABASE <em>Nome_do_banco</em>
+CREATE DATABASE <em>Nome_do_banco</em><br>
 DROP DATABASE <em>Nome_do_banco</em>
-
-
-
+#
 ### Criando uma tabela
 CREATE TABLE [TABELA DE CLIENTES] ( <br>
 CPF CHAR (11),<br>
