@@ -1,0 +1,20 @@
+### Criar e excluir Banco de Dados
+CREATE DATABASE <em>Nome_do_banco</em><br>
+DROP DATABASE <em>Nome_do_banco</em>
+
+### Criando uma tabela
+CREATE TABLE [TABELA DE CLIENTES] ( <br>
+CPF CHAR (11),<br>
+NOME VARCHAR (150),<br>
+RUA VARCHAR (150),<br>
+COMPLEMENTO VARCHAR (150),<br>
+BAIRRO VARCHAR (150),<br>
+ESTADO CHAR (2),<br>
+CEP CHAR (8),<br>
+[DATA DE NASCIMENTO] DATE,<br>
+IDADE SMALLINT,<br>
+SEXO CHAR (1),<br>
+[LIMITE DE CREDITO] MONEY,<br>
+[VOLUME MINIMO] FLOAT,<br>
+[PRIMEIRA COMPRA] BIT
+)
