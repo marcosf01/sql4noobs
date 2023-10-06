@@ -1,5 +1,7 @@
 # SQL4Noobs
 
+<a ref="docs/tipos.md">Tipo de dados</a>
+
 <p align="center">Tenha todos os comando em SQL em um só lugar! Copie, cole e edite.</p>
 
 ### Criar Banco de Dados
