@@ -1,6 +1,6 @@
 # SQL4Noobs
 
-<a ref="docs/tipos.md">Tipo de dados</a>
+[Tipos de dados](docs/ambiente/tipos.md)
 
 <p align="center">Tenha todos os comando em SQL em um só lugar! Copie, cole e edite.</p>
 
