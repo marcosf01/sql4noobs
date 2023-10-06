@@ -1,6 +1,6 @@
 # SQL4Noobs
 
-[Tipos de dados](docs/ambiente/tipos.md)
+[Tipos de dados](docs/tipos.md)
 
 <p align="center">Tenha todos os comando em SQL em um só lugar! Copie, cole e edite.</p>
 
